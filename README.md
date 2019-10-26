@@ -1,8 +1,12 @@
 TEAM : Carl Tondo and Maria Jose Siles Navarro
 
+***NOTE***
+Please click on the ETL project folder to find and see the report document or pdf.
+
 # Guidelines for ETL Project
 
-This document contains guidelines, requirements, and suggestions for Project 1.
+This document contains guidelines, requirements, and suggestions for Project 
+
 
 ## Team Effort
 
